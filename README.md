@@ -1,2 +1,2 @@
-# nlp-webboard-regulation
-Effect of webboard game regulation on community sentiments (major news companies)
+# nlp-covid19-ventures
+Effect of Covid-19 on venture startups
