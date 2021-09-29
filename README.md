@@ -1,6 +1,11 @@
 # nlp-webboard-regulation
 Effect of webboard game regulation on community sentiment (major news companies)
 
+for konlp:
+1. python 3.7
+2. jdk 11.0.12
+3. JPype 0.7.0
+
 Intro to NLP
 1. 딥 러닝을 이용한 자연어 처리 입문 (https://wikidocs.net/book/2155)
 2. 토닥토닥 파이썬 - 텍스트를 위한 머신러닝 (https://wikidocs.net/book/2859)
